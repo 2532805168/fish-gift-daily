@@ -1,0 +1,80 @@
+{
+  "accounts": {
+    "1011059970": {
+      "name": "～被情绪左右#1",
+      "done": [
+        "gzgzh666",
+        "fisher6666",
+        "fishmaster666",
+        "vip6666",
+        "vip7777",
+        "vip8888",
+        "super8888",
+        "diaoyu9999",
+        "fish666888",
+        "king88888",
+        "hldyds99999"
+      ]
+    },
+    "3045919893": {
+      "name": "方生方死方死方生",
+      "done": [
+        "gzgzh666",
+        "fisher6666",
+        "diaoyu9999"
+      ]
+    }
+  },
+  "pending": {
+    "1011059970": [],
+    "3045919893": [
+      [
+        "fish666888",
+        7
+      ],
+      [
+        "king88888",
+        14
+      ],
+      [
+        "hldyds99999",
+        30
+      ]
+    ]
+  },
+  "dead": [
+    "vip666",
+    "vip777",
+    "vip888",
+    "super888",
+    "diaoyu999",
+    "fish6688",
+    "king8888",
+    "hldyds9999",
+    "happy2026",
+    "fishmode",
+    "jwst888",
+    "1122happy",
+    "1122vip",
+    "fishon1122",
+    "fisher666",
+    "alt999",
+    "xueer520",
+    "xueer999",
+    "888vvvip",
+    "hldyds666",
+    "hldyds888",
+    "ali213",
+    "top200",
+    "topn200",
+    "topo200"
+  ],
+  "runs": [
+    {
+      "date": "2026-11-13",
+      "day": 2,
+      "jobs": 4,
+      "ok": 0
+    }
+  ]
+}
