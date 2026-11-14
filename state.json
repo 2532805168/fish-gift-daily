@@ -67,13 +67,22 @@
     "ali213",
     "top200",
     "topn200",
-    "topo200"
+    "topo200",
+    "class16",
+    "soft9527",
+    "dyyxynx2024"
   ],
   "runs": [
     {
       "date": "2026-11-13",
       "day": 2,
       "jobs": 4,
+      "ok": 0
+    },
+    {
+      "date": "2026-11-14",
+      "day": 3,
+      "jobs": 3,
       "ok": 0
     }
   ]
